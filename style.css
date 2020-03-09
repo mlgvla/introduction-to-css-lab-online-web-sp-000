@@ -7,19 +7,19 @@ body {
 div {
   width: 700px;
   margin: auto;
-  font-family:"Hevetica Neue";
-  background:white;
-  padding:30px
+  font-family: "Hevetica Neue";
+  background: white;
+  padding: 30px
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
-  color:red;
+  color: red;
   font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  font-style:italic;
+  font-style:  italic;
 }
