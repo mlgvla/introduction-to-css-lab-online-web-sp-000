@@ -7,6 +7,7 @@ body {
 div {
   width: 700px;
   font-family: "Hevetica Neue";
+  margin: auto;
   background: white;
   padding: 30px
 }
